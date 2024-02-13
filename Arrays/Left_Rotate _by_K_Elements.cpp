@@ -3,7 +3,7 @@ BRUTEFORCE with TLE
 vector<int> rotateArray(vector<int>arr, int k) {
     // Write your code here.
     int temp[k];
-    int n=arr.size();
+    int n=arr.size(); 
     for(int i=0;i<n;i++){
         temp[i] = arr[i];
     }
