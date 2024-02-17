@@ -13,7 +13,7 @@ int secondLargest(vector<int>&a, int n){
     }
     return slargest;
 }
-
+ 
 int secondsmallest(vector<int> &a, int n){
     int smallest=a[0];
     int ssmallest=INT_MAX;
