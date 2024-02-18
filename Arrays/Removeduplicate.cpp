@@ -12,7 +12,7 @@ int j=0;
 copy(set.begin(),set.end(),arr.begin());
 return k;
 }
-
+  
 //Optimal Approach Using 2 pointer approach
 
 int i=0;
