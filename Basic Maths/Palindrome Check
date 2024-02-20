@@ -1,6 +1,6 @@
 https://leetcode.com/problems/palindrome-number/
 //Palindrome
-
+ 
 class Solution {
 public:
     bool isPalindrome(int x) {
