@@ -1,5 +1,5 @@
-//https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957?leftPanelTabValue=SUBMISSION
-
+ //https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957?leftPanelTabValue=SUBMISSION
+ 
 int isSorted(int n, vector<int> a) { 
     // Write your code here.
     for(int i=1;i<n;i++){
