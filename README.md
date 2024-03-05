@@ -1,3 +1,3 @@
-  # Har-Din-DSA
+# Har-Din-DSA
 Data Structures 
  
