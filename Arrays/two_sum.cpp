@@ -1,6 +1,6 @@
 BruteForce :- 
   using two for loop
-
+ 
 //better approach
 class Solution {
 public:
