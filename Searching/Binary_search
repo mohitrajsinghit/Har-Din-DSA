@@ -1,0 +1,23 @@
+using namespace std;
+
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        size_t left = 0;
+        size_t right = nums.size();
+
+        while (left < right) {
+            size_t mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) {
+                return mid; // Target found, return its index
+            } else if (nums[mid] < target) {
+                left = mid + 1; // Adjust left boundary to search right half
+            } else {
+                right = mid; // Adjust right boundary to search left half
+            }
+        }
+
+        return -1; // Target not found
+    }
+};
