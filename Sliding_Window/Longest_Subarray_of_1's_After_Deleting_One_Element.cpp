@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int longestSubarray(vector<int>& nums) {
         int l=0,r=0,n=nums.size(),ans=0;
         int count =0;
