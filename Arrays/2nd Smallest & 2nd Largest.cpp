@@ -1,5 +1,6 @@
 //https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?leftPanelTabValue=SUBMISSION
 
+
 int secondLargest(vector<int>&a, int n){
     int largest = a[0]; 
     int slargest = -1;
