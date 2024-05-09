@@ -1,2 +1,2 @@
 # Har-Din-DSA
-Data Structur
+Data Structure
