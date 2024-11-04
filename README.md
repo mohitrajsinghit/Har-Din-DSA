@@ -2,7 +2,7 @@
 ```markdown
 # User Dashboard Application
 
-## Project Overview
+## Project Overvie
 
 This User Dashboard Application allows users to view a list of users fetched from a public API, search for users by name or username, and view detailed information about each user in a modal. The application features a responsive design, a video background, and vibrant colors with a glassmorphic effect for the user cards.
 
